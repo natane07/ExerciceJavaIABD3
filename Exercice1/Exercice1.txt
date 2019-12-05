@@ -1,0 +1,20 @@
+
+----------- Partie 1 ---------------
+
+1) false 20
+2) Result : 28 (010 = 8)
+3) OK
+4) rien
+5)2*(2*(3+(2*0))) = 12
+
+---------- Partie 2 ----------------
+1) iabde
+2)  un premier texte
+    un deuxieme texte
+    un deuxieme texte texte a concatener en string
+    construction sbuffer texte a concatener en sbuffer
+    construction sbuffer 2
+    simple construction
+3)  1 
+    1 
+    1 
